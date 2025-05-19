@@ -14,7 +14,7 @@ public class Main {
         BaseParser reader =  ReaderFactory.getReader(filePath, FileType.PDF);
         BaseParser csvReader =  ReaderFactory.getReader(filePath, FileType.CSV);
         BaseParser docxReader =  ReaderFactory.getReader(filePath, FileType.DOCX);
-
+        reader.parse();
 
     }
 }
