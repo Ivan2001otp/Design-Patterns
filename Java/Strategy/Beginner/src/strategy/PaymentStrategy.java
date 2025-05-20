@@ -1,2 +1,6 @@
-package strategy;public interface PaymentStrategy {
+package strategy;
+
+public interface PaymentStrategy {
+    boolean pay(int paymentAmount);
+    void collectPaymentDetails();
 }

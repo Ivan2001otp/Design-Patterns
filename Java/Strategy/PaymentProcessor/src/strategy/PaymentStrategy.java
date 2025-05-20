@@ -1,2 +1,5 @@
-package strategy;public interface PaymentStrategy {
+package strategy;
+
+public interface PaymentStrategy {
+    public void pay();
 }

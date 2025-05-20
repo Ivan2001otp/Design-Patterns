@@ -50,5 +50,5 @@ public class GZipCompression implements CompressionStrategy {
         }
     }
 
-    
+
 }
