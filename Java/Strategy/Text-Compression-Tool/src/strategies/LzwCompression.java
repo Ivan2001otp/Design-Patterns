@@ -58,6 +58,7 @@ public class LzwCompression implements CompressionStrategy {
 
     @Override
     public void decompress(File inputFile, File outputFile) throws IOException {
+        System.out.println("LZW Decompression started");
         List<Integer> compressed = new ArrayList<>();
         try(
             DataInputStream dis = new DataInputStream(new FileInputStream(inputFile))
@@ -70,7 +71,35 @@ public class LzwCompression implements CompressionStrategy {
             e.printStackTrace();
         }
 
+        Map<Integer, String> dict = new HashMap<>();
+        int dictSize = 256;
+        for (int i=0;i < 256; i++) {
+            dict.put(i, "" + (char)i);
+        }
 
-        
+        StringBuilder result = new StringBuilder();
+        String previous = dict.get(compressed.get(0));
+        result.append(previous);
+
+        for (int i=1;i < compressed.size(); i++) {
+            int code = compressed.get(i);
+
+            String entry;
+            if (dict.containsKey(code)) {
+                entry = dict.get(code);
+            } else if (code == dictSize) {
+                entry = previous + previous.charAt(0);
+            } else {
+                throw new IllegalStateException("Invalid LZW code "+code);
+            }
+
+            result.append(entry);
+            dict.put(dictSize++, previous + entry.charAt(0));
+            previous = entry;
+        }
+
+        Files.write(outputFile.toPath(), result.toString().getBytes());
+        System.out.println("LZW Decompression completed !");
+
     }
 }
