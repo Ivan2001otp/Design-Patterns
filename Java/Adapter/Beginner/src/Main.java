@@ -8,6 +8,6 @@ public class Main {
         audioPlayer.play("mp4", "songB.mp4");
         audioPlayer.play("vlc", "songC.vlc");
         audioPlayer.play("avi", "songD.avi");
-        
+
     }
 }
