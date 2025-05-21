@@ -3,3 +3,4 @@
  - Singleton Pattern
  - Strategy
  - Observer
+ - Adapter
