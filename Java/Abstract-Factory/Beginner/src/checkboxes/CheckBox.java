@@ -1,2 +1,5 @@
-package checkboxes;public interface CheckBox {
+package checkboxes;
+
+public interface CheckBox {
+    void paint();
 }

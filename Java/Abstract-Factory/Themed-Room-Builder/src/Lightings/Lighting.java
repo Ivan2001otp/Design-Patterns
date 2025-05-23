@@ -1,2 +1,5 @@
-package Lightings;public interface Lighting {
+package Lightings;
+
+public interface Lighting {
+    void toggleLighting();
 }

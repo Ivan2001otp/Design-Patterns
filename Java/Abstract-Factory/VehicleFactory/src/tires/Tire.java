@@ -1,2 +1,5 @@
-package tires;public interface Tire {
+package tires;
+
+public interface Tire {
+    void momentOfInertia();
 }

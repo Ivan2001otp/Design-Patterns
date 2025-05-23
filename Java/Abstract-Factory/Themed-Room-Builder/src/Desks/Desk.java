@@ -1,2 +1,5 @@
-package Desks;public interface Desk {
+package Desks;
+
+public interface Desk {
+    void read();
 }

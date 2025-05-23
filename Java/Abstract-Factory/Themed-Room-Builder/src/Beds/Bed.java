@@ -1,2 +1,5 @@
-package Beds;public interface Bed {
+package Beds;
+
+public interface Bed {
+    void calmSleep();
 }

@@ -1,16 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54ce9f66-d02b-4b92-80dc-804b82391471" name="Changes" comment="" />
+    <list default="true" id="9e2fe0f0-a4ed-4c6f-8fd5-f9c6a9fcc48c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/Java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="2xOQEaujGthHHr4QlPbEqsK1XMl" />
+  <component name="ProjectId" id="2xRQrq3UYuyjpipI6oRqvRXqPqB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,11 +30,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="54ce9f66-d02b-4b92-80dc-804b82391471" name="Changes" comment="" />
-      <created>1747806540313</created>
+      <changelist id="9e2fe0f0-a4ed-4c6f-8fd5-f9c6a9fcc48c" name="Changes" comment="" />
+      <created>1747898620156</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1747806540313</updated>
+      <updated>1747898620156</updated>
     </task>
     <servers />
   </component>
