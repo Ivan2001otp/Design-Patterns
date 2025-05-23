@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="816000c1-789b-4297-81ef-d38d170eb67b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/Java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstract-Factory/Beginner/src/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstract-Factory/Beginner/src/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstract-Factory/Beginner/src/buttons/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstract-Factory/Beginner/src/buttons/Button.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstract-Factory/Beginner/src/buttons/MacButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstract-Factory/Beginner/src/buttons/MacButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstract-Factory/Beginner/src/buttons/WindowButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstract-Factory/Beginner/src/buttons/WindowButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstract-Factory/Beginner/src/checkboxes/CheckBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstract-Factory/Beginner/src/checkboxes/CheckBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstract-Factory/Beginner/src/checkboxes/MacCheckBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstract-Factory/Beginner/src/checkboxes/MacCheckBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstract-Factory/Beginner/src/checkboxes/WindowCheckBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstract-Factory/Beginner/src/checkboxes/WindowCheckBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstract-Factory/Beginner/src/factories/GUIFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstract-Factory/Beginner/src/factories/GUIFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstract-Factory/Beginner/src/factories/MacOsFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstract-Factory/Beginner/src/factories/MacOsFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstract-Factory/Beginner/src/factories/WindowOsFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstract-Factory/Beginner/src/factories/WindowOsFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstract-Factory/Themed-Room-Builder/src/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstract-Factory/Themed-Room-Builder/src/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstract-Factory/Themed-Room-Builder/src/Beds/Bed.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstract-Factory/Themed-Room-Builder/src/Beds/Bed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstract-Factory/Themed-Room-Builder/src/Beds/FuturisticBed.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstract-Factory/Themed-Room-Builder/src/Beds/FuturisticBed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstract-Factory/Themed-Room-Builder/src/Beds/ModernBed.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstract-Factory/Themed-Room-Builder/src/Beds/ModernBed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstract-Factory/Themed-Room-Builder/src/Beds/VictorianBed.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstract-Factory/Themed-Room-Builder/src/Beds/VictorianBed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstract-Factory/Themed-Room-Builder/src/Desks/Desk.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstract-Factory/Themed-Room-Builder/src/Desks/Desk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstract-Factory/Themed-Room-Builder/src/Desks/FuturisticDesk.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstract-Factory/Themed-Room-Builder/src/Desks/FuturisticDesk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstract-Factory/Themed-Room-Builder/src/Desks/ModernDesk.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstract-Factory/Themed-Room-Builder/src/Desks/ModernDesk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstract-Factory/Themed-Room-Builder/src/Desks/VictorianDesk.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstract-Factory/Themed-Room-Builder/src/Desks/VictorianDesk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstract-Factory/Themed-Room-Builder/src/Lightings/FuturisticLighting.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstract-Factory/Themed-Room-Builder/src/Lightings/FuturisticLighting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstract-Factory/Themed-Room-Builder/src/Lightings/Lighting.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstract-Factory/Themed-Room-Builder/src/Lightings/Lighting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstract-Factory/Themed-Room-Builder/src/Lightings/ModernLighting.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstract-Factory/Themed-Room-Builder/src/Lightings/ModernLighting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstract-Factory/Themed-Room-Builder/src/Lightings/VictorianLighting.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstract-Factory/Themed-Room-Builder/src/Lightings/VictorianLighting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstract-Factory/Themed-Room-Builder/src/factories/FuturisticThemeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstract-Factory/Themed-Room-Builder/src/factories/FuturisticThemeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstract-Factory/Themed-Room-Builder/src/factories/ModernThemeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstract-Factory/Themed-Room-Builder/src/factories/ModernThemeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstract-Factory/Themed-Room-Builder/src/factories/ThemeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstract-Factory/Themed-Room-Builder/src/factories/ThemeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstract-Factory/Themed-Room-Builder/src/factories/VictorianThemeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstract-Factory/Themed-Room-Builder/src/factories/VictorianThemeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstract-Factory/VehicleFactory/src/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstract-Factory/VehicleFactory/src/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstract-Factory/VehicleFactory/src/engines/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstract-Factory/VehicleFactory/src/engines/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstract-Factory/VehicleFactory/src/engines/MercedesEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstract-Factory/VehicleFactory/src/engines/MercedesEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstract-Factory/VehicleFactory/src/engines/ToyotaEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstract-Factory/VehicleFactory/src/engines/ToyotaEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstract-Factory/VehicleFactory/src/factories/MercedesFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstract-Factory/VehicleFactory/src/factories/MercedesFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstract-Factory/VehicleFactory/src/factories/ToyotaFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstract-Factory/VehicleFactory/src/factories/ToyotaFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstract-Factory/VehicleFactory/src/factories/VehicleFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstract-Factory/VehicleFactory/src/factories/VehicleFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstract-Factory/VehicleFactory/src/tires/MercedesTires.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstract-Factory/VehicleFactory/src/tires/MercedesTires.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstract-Factory/VehicleFactory/src/tires/Tire.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstract-Factory/VehicleFactory/src/tires/Tire.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abstract-Factory/VehicleFactory/src/tires/ToyotaTires.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abstract-Factory/VehicleFactory/src/tires/ToyotaTires.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Builder/Machine/src/builder/Machine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Builder/Machine/src/builder/Machine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Beginner/src/MediaLibrary/AudioMixer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/src/MediaLibrary/AudioMixer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Beginner/src/MediaLibrary/BitrateReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/src/MediaLibrary/BitrateReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Beginner/src/MediaLibrary/Codec.java" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/src/MediaLibrary/Codec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Beginner/src/MediaLibrary/CodecFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/src/MediaLibrary/CodecFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Beginner/src/MediaLibrary/MPEG4CompressionCodec.java" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/src/MediaLibrary/MPEG4CompressionCodec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Beginner/src/MediaLibrary/OggCompressionCodec.java" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/src/MediaLibrary/OggCompressionCodec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Beginner/src/MediaLibrary/VideoFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/src/MediaLibrary/VideoFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Beginner/src/facade/VideoConversionFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/Beginner/src/facade/VideoConversionFacade.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2xTkdZxhVPzUh2qRC9k7yWGkzD6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="816000c1-789b-4297-81ef-d38d170eb67b" name="Changes" comment="" />
+      <created>1747969550231</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747969550231</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

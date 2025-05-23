@@ -1,2 +1,5 @@
-package MediaLibrary;public class OggCompressionCodec {
+package MediaLibrary;
+
+public class OggCompressionCodec implements Codec {
+    public String type = "ogg";
 }

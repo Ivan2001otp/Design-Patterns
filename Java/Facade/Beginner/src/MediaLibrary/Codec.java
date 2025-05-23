@@ -1,2 +1,4 @@
-package MediaLibrary;public interface Codec {
+package MediaLibrary;
+
+public interface Codec {
 }
