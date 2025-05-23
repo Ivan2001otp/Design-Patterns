@@ -1,2 +1,6 @@
-package interfaces;public interface Coffee {
+package interfaces;
+
+public interface Coffee {
+    String getDescription();
+    double getCost();
 }

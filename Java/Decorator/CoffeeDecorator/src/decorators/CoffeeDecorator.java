@@ -2,15 +2,15 @@ package decorators;
 
 import interfaces.Coffee;
 
-public abstract class SimpleCoffee implements Coffee {
+public abstract class CoffeeDecorator implements Coffee {
 
     protected Coffee coffee;
 
-    public SimpleCoffee() {
+    public CoffeeDecorator() {
         this.coffee = null;
     }
 
-    public SimpleCoffee(Coffee thisCoffee){
+    public CoffeeDecorator(Coffee thisCoffee){
         this.coffee = thisCoffee;
     }
 
@@ -23,7 +23,5 @@ public abstract class SimpleCoffee implements Coffee {
     public double getCost() {
         return coffee.getCost();
     }
-
-    
 
 }

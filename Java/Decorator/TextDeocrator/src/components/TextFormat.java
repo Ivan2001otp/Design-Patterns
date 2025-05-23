@@ -1,5 +1,5 @@
-package interfaces;
+package components;
 
 public interface TextFormat {
-    void write(String data);
+    String write();
 }

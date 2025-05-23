@@ -3,4 +3,7 @@
  - Singleton Pattern
  - Strategy
  - Observer
+ - Decorator
+ - Abstract Factory Design
+ - Facade
  - Adapter

@@ -1,4 +1,6 @@
 package interfaces;
 
-public class DataSource {
+public interface DataSource {
+    void writeDate(String data);
+    String readData();
 }
