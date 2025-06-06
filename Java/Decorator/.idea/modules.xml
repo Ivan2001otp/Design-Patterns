@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Beginner/Beginner.iml" filepath="$PROJECT_DIR$/Beginner/Beginner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CoffeeDecorator/CoffeeDecorator.iml" filepath="$PROJECT_DIR$/CoffeeDecorator/CoffeeDecorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Decorator.iml" filepath="$PROJECT_DIR$/.idea/Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GamePowerup/GamePowerup.iml" filepath="$PROJECT_DIR$/GamePowerup/GamePowerup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TextDeocrator/TextDeocrator.iml" filepath="$PROJECT_DIR$/TextDeocrator/TextDeocrator.iml" />
+    </modules>
+  </component>
+</project>
